@@ -100,9 +100,7 @@ const WhatIDo = () => {
                 <div className="what-tags">ETL Development</div>
                 <div className="what-tags">Data Modelling</div>
                 <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
                 <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
               </div>
               <div className="what-arrow"></div>
             </div>
