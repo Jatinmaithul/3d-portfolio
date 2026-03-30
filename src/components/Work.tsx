@@ -5,33 +5,23 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "Platform Migration",
+    category: "PowerCenter to Informatica IICS Cloud",
+    tools: "PowerCenter, IICS, Database, File Systems, Shell Scripting ,GitHub",
+    image: "/images/PC_to_IICS.png",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "Pipeline Development",
+    category: "IICS Pipeline Devlopment",
+    tools: "Informatica IICS, OracleDB, PostgreSQL, SSMS, Unix Shell Scripting",
+    image: "/images/IICS.png",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
-  },
+    title: "RAG Chat bot",
+    category: "Retrieval-Augmented Generation for IT Industry",
+    tools: "Python, Steamlit, LLM, Supabase, HuggingFace, Github",
+    image: "/images/RAG.png",
+  }
 ];
 
 const Work = () => {
@@ -116,7 +106,6 @@ const Work = () => {
                       <WorkImage
                         image={project.image}
                         alt={project.title}
-                        link={project.link}
                       />
                     </div>
                   </div>
