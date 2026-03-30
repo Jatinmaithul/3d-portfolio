@@ -17,7 +17,7 @@ const projects = [
     image: "/images/IICS.png",
   },
   {
-    title: "RAG Chat bot",
+    title: "RAG Chat-bot Development",
     category: "Retrieval-Augmented Generation for IT Industry",
     tools: "Python, Steamlit, LLM, Supabase, HuggingFace, Github",
     image: "/images/RAG.png",
