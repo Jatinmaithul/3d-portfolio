@@ -87,11 +87,11 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>Data Engineer & ETL Developer</h3>
+              <h3>Data Engineer</h3>
               <h4>Workflow Intelligence for Organizations</h4>
               <p>
                 Data Engineer helping organizations automate workflows—internal ops
-                and specifically building and managing pipelines that move large volumes of data between systems reliably
+                and specifically building pipelines that move large volumes of data between systems reliably
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
