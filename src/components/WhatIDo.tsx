@@ -138,8 +138,6 @@ const WhatIDo = () => {
                 <div className="what-tags">REST &amp; real-time APIs</div>
                 <div className="what-tags">PostgreSQL</div>
                 <div className="what-tags">SQL Server</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
                 <div className="what-tags">Cloud &amp; infra</div>
               </div>
               <div className="what-arrow"></div>
